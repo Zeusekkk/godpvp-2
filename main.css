@@ -305,23 +305,24 @@ a:hover {
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 15px;
-	font-color: orange ;
+	font-color: orange;
 }
 
 #gamemodes h2 {
 	margin-top: 5px;
 	font-size: 20px;
-	font-color: orange ;
+	font-color: orange;
 }
 
 #gamemodes p {
 	margin-top: 3px;
 	font-size: 18px;
-	font-color: orange ;
+	font-color: orange;
 }
 
-#gamemodes .gray {
-	background-color: #ecf0f1;
+#gamemodes .orange {
+	background-color: #
+#FFA500;
     padding: 0;
     margin: -10px;
 }
@@ -424,7 +425,7 @@ footer {
 }
 
 .copyright-notice:hover {
-	color: white;
+	color: orange;
 	margin: 0;
 	margin-bottom: 0px;
 	padding: 0;
